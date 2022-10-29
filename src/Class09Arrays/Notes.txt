@@ -1,0 +1,34 @@
+Java Class 9
+
+Break and Continue;
+
+break - break/exist loop block
+continue - skips current execution/iteration
+
+nested loops - loop inside another loop
+
+for(int i=1; i<4; i++){
+	for(int j=0; j<=2; J++){
+	System.out.println(i+" "j);
+	}
+	}
+
+	for(int i=1; i<4; i++){
+	for(int j=0; j<=2;j++){
+	System.out.println("Hello");
+	}
+	Systemout.println("Bye");
+	break;
+	}
+
+	As long as the condition is true, the loop will be infinitive. If the inner loop condition
+	stays true, it will never exit the loop
+	example:
+			boolean day = true;
+			for (int k = 1; k <= 3; k++) {
+				while (day) {
+					System.out.println("Good Day");
+				}
+				System.out.println(k);
+			}
+

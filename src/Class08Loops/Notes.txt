@@ -1,0 +1,45 @@
+Java Class 08
+
+Loops in Java:
+
+	while
+	do while
+	for
+	enhanced for loop/for each loop/advanced for loop
+
+	for loop - when we know number of repetitions/iterations in advance
+
+	for (initialization; condition; increment/decrement){
+		code to repeat;
+	}
+
+	while loop and do while ->if we don't know number of repetitions
+
+		WHILE VS DO WHILE:
+
+while checks condition first -> then executes code
+do while executes code then checks the condition
+
+	while(boolean condition) {
+		code to repeat;
+		}
+
+	do {
+
+	}while(boolean condition);
+
+	------------------------
+
+Nested Loops - loop inside another loop
+
+for (int i=1; i<3; i++){ -->outer loop
+
+System.out.println("Hello);
+
+for (int j=1; j<=3; j++){ -->nested loop
+System.out.println("Bye");
+
+}
+}
+
+

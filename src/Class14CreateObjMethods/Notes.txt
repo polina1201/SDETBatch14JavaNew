@@ -1,0 +1,13 @@
+String Methods:
+    String is the most widely used class in Java. We can use it to store text based data.
+
+    StringBuffer and StringBuilder is exactly the same. Buffer was first and then Builder was created.
+        They have exact same features and used interchangeably.
+        Builder - Mostly used class; newer, better, faster
+        Buffer - Older, slower, and not used as often
+
+    To reverse - need to use StringBuilder, cannot reverse a String. if you want to reverse a String, need to reverse
+     String to StringBuilder.
+
+Methods in Java:
+    Method in Java is simply a block of code or some Java Statements put together in a block.

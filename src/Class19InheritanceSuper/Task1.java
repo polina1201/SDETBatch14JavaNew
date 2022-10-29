@@ -1,0 +1,27 @@
+package Class19InheritanceSuper;
+
+public class Task1 {
+    /*
+    Write a Student class   that have instance variables name and address.
+     Create a constructor that will initialize those variables.
+    Print name & address of given  student using displayInfo method.
+     */
+
+}
+
+class Student{
+    String name;
+    String address;
+    public Student(String name,String address){ //this is a constructor
+        this.name=name;
+        this.address=address;
+    }
+    void displayInfo(){ //constructor
+        System.out.println("Name "+name+" Address "+address);
+    }
+    public static void main(String[] args) {
+        Student josh=new Student("Naughty Josh","Earth");
+        josh.displayInfo();
+    }
+
+}

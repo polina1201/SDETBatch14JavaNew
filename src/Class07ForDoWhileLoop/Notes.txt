@@ -1,0 +1,79 @@
+Java Class 7
+
+Switch Syntax
+
+switch(variable) {
+
+case value1:
+	codeA;
+	break;
+case value2:
+	code B;
+	break;
+default:
+	code C;
+	break;
+}
+
+Limitations:
+	data types: CANNOT work with double, long, float,
+	CANNOT use logical operators and relational operators
+
+Loops -
+
+	System.out.println("good morning");
+	System.out.println("good morning");
+	System.out.println("good morning");
+	System.out.println("good morning");
+	System.out.println("good morning");
+	System.out.println("good morning");
+
+	int time=10;
+
+	if (time<12) {
+
+	System.out.println("good morning");
+	}
+
+	while(time<12){
+
+	System.out.println("good morning");
+
+	}
+
+While Loop Syntax
+
+	while(boolean condition) {
+		code to be repeated}
+
+Do While Loop
+
+do while loop syntax
+
+do{
+	code to be repeated;
+} while (boolean condition);
+
+While vs Do While -> both loops executed while condition is true
+
+While loop first CHECKS condition->if true->executes code
+Do While first EXECUTES code -> then checks condition
+
+
+
+For Loop Syntax
+
+for(initialization; condition; increment/decrement){
+code to be repeated;
+
+}
+//Hello 5 times
+
+for(int i=1; i<=5; i++) {
+System.out.prin("hello");
+}
+
+When to use which loop:
+
+	When we know in advance how many times to repeat block of code -> USE for LOOP
+	When we do not know in advance how many times to repeat block of code -> USE while OR do while LOOP

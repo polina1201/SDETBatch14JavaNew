@@ -1,0 +1,10 @@
+Arrays in Java - is a collection of similar type of data
+Array is a container object that holds values of homogeneous type.
+It is fixed in size, that means you can't increase the size of array at run time.
+
+The values that we store inside the container is elements
+
+String[]week= {"Monday", "Sunday", "Tuesday", "Thursday","Friday"};
+		for (String day:week) {
+			System.out.println(day);
+		}
