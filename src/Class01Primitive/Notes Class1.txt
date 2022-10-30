@@ -1,0 +1,54 @@
+System vs system - Java case sensitive
+
+To Take screenshot:
+
+	Mac: cmd+shift+4
+	Window: snipping tool
+
+Eclipse:
+		1. Project Explorer/Package Explorer
+
+		To find it: Menu -> Windows -> Show View -> Project Explorer
+
+		2. Console - > view output of the program
+
+		To find it: Menu -> Windows -> Show View -> Console
+
+In Eclipse:
+
+Create project
+
+JavaBasics
+
+javabasicsfromasel vs JavaBasicsFromAsel
+
+To create a package:
+
+src -> right click -> new -> package
+
+name of the package
+com.syntax.class01
+
+HelloWorld
+
+1. non primitive data types
+2. primitive data types
+
+	numeric:
+			whole numbers(1,2,3)
+				byte
+				short
+				int
+				long
+
+			decimals(1,99 2,97)
+				
+				float
+				double
+	
+	non numeric:
+			1 character (&, F, m, $)
+			char
+			
+			boolean (yes or no)
+			true/false

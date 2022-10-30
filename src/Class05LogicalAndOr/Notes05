@@ -1,0 +1,100 @@
+Java Class 5
+
+If statement
+
+SYNTAX
+
+if (boolean condition) {
+
+} //It has to always be a boolean condition, meaning the statement should always be true or false
+=======================
+boolean weekend = true;
+
+if (weekend){
+
+System.out.println(It is Java class");
+}
+String day="Saturday";
+
+if (day.equals("Saturday")) {
+System.out.println (It is Java class");
+}
+
+int date=3;
+
+if (date=3){
+System.out.println ("Today is the third");
+}
+
+==================================
+SYNTAX
+
+if (boolean condition) {
+	Code A;
+}else {
+	Code B;
+}
+==============================
+
+if (boolean condition){
+	Code A;
+}else if (boolea condition){
+Code B;
+} else if (boolean condition) {
+code C;
+}
+
+
+//we use .equals for String statement
+
+=====================================
+
+Nested if - if statement inside another if
+
+if (boolean condition) {  ---> outer if
+
+	if (boolean condition){ ---> inner if
+	
+	}
+}
+========================================================
+
+Scanner is a class - used to take input from a user
+
+=====================================================
+
+Logical Operators
+
+Assignment operator: =
+Arithmetic: +, -, *, /, %
+Relational: >, =, <, <=, >=, !=
+
+Logical: &&, || !
+
+Logical AND &&
+
+true && true ---> TRUE
+true && false ---> FALSE
+false && true ---> FALSE
+false && false ---> FALSE
+
+
+Logical OR
+
+true || true --->TRUE
+true || false ---> TRUE
+false || true ---> TRUE
+false || false ---> FALSE
+
+Logical !
+
+true || true --->
+true || false ---> 
+false || true ---> 
+false || false ---> 
+
+
+
+
+
+
