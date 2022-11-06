@@ -1,2 +1,43 @@
 Collections Framework:
-    
+    Collections Framework is a collection of multiple classes and interfaces which help us process the data efficently
+    and easily
+Why we should learn about it
+    1. It's very flexible
+    2. Provide ready-made methods that we can just use
+What is the Syntax?
+    It's similar how we create the object of any class, but we use <> to specify the name of the class, who's objects
+    we are going to store in that class.
+Downside with Collections framework:
+    1. Collection framework doesn't work with primitive data types. Solution is to use Wrapper Classes
+
+*****FREQUENTLY ASKED IN INTERVIEWS!!!********
+ Wrapper Classes:
+    Wrapper classes are object types for all primitive types
+ Boxing:
+    Converting the primitive data type to its corresponding wrapper type by explicity calling methods
+    int num=10;
+        //boxing or manual conersion from primitive to wrapper type
+        //Integer wrappedNum=Integer.valueOf(num);
+ Auto Boxing:
+    Converting the primited date type to its corresponding wrapper type by simply assigning the values.
+    Integer wrappedNum=10;
+ Unboxing:
+    Converting a wrapper type to its corresponding primitive type by explicityly calling a method
+    //unboxing converting a wrapper type to a corresponding primitive type
+        //int num2=wrappedNum.intValue();
+ Auto Unboxing:
+    Converting a wrapper to a corresponding primitive automatically by just assigning the value
+    Integer wrappedNum=new Integer(10);
+    int num2=wrappedNum;
+
+
+//Non generic way of using collections framework; this is how your ancestors used to write code before java
+        //1.5 Java cuases a lot of problems at run time because java doesn't know at compile time what type of data
+        //you are storing in this class and because java doesn't know it can't help you avoid these errors
+
+        ArrayList names=new ArrayList();
+        names.add("Polina");
+        names.add(10);
+        //System.out.println(names);
+
+        ((String)names.get(0)).length();

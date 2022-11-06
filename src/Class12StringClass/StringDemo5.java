@@ -14,7 +14,7 @@ public class StringDemo5 {
             //print only the characters not spaces
             if(!(str.charAt(i)==' ')) {
 
-                System.out.println(str.charAt(i));
+                System.out.print(str.charAt(i)+" ");
             }
 
         }
