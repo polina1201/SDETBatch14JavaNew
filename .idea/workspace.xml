@@ -2,35 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d1f85c-e931-4dc0-9ff4-813a0504de0e" name="Changes" comment="Class 15">
-      <change afterPath="$PROJECT_DIR$/src/Class25Wrappers/ArrayListMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25Wrappers/ContainsAllDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25Wrappers/IteratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25Wrappers/IteratorDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25Wrappers/IteratorDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25Wrappers/IteratorDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25Wrappers/IteratorDemo4WithLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25Wrappers/RemoveAllDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25Wrappers/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25Wrappers/WhyNeedIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25Wrappers/WrapperClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26ArrayListAndSets/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26ArrayListAndSets/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26ArrayListAndSets/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26ArrayListAndSets/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26ArrayListAndSets/TypesofSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26ArrayListAndSets/WhenToUseSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26ArrayListAndSets/WhySet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26ArrayListAndSets/WrapperDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class27/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class27/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class27/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClassB14/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27Maps/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27Maps/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27Maps/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27Maps/MapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27Maps/MapDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27Maps/MapDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27Maps/MapDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27Maps/MapDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27Maps/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27Maps/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27Maps/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass12Map/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass12Map/ListDemoWithCustomClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass12Map/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass12Map/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDETBatch14Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETBatch14Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12StringClass/StringDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/StringDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class12StringClass/StringDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class12StringClass/StringDemo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class25Wrappers/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class25Wrappers/Notes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Repls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Repl104StringArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class27/ArrayListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class27/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class27Maps/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class27/Notes.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

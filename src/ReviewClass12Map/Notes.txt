@@ -1,0 +1,42 @@
+Collections Framework:
+    is a set of classes and interfaces that help use, store, and manipulate data.
+Why we need collections framework?
+    1) Flexibility
+    2) Ready-Made Methods
+    3) Same classes and methods can be used with different datatype
+Some common classes:
+    1) ArrayList
+    2) LinkedList
+    3) HashSet
+    4) LinkedHashSet
+    5) TreeSet
+Some common Interfaces:
+    1) List
+    2) Set
+List:
+    1) Lists like ArrayList and LinkedList mainatins the insertion order
+    2) They allow duplicates
+Set:
+    1) They do not allow duplicate values.
+
+ArrayList vs LinkedList:
+    When most of the time we retrieve the data, we should use an ArrayList. It's very fast to retrieve
+    index-based data because underlying datastructure is an array.
+    When most of the time we manipulate the data (adding/removing/shifting add(),set(), remove())
+
+NOTE: FOR THE INTERVIEW
+    if else condition
+    loops
+    arrays
+    String class
+    maps
+    ArrayList
+
+HasSet vs LinkedHashSet vs TreeSet
+    We should always go with the HashSet. It's the fastest of 3 and requires less memory.
+    If order is important, we should use LinkedHashSet.
+    TreeSet - elements are sorted according to the natural order of its elements, in ascending order
+
+Maps:
+Whenever we have to store key value, pairs for example, or items and their prices, we should use Maps.
+A map contains values on the basis of key, i.e. key and value pair. Each key and value pair is known as an entry.

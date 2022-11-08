@@ -1,2 +1,0 @@
-ArrayList vs LinkedList:
-    ArrayList and LinkedList both implement the list interface. But internal implementation is different.
