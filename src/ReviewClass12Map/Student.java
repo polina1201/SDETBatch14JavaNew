@@ -10,6 +10,19 @@ public class Student {
         this.lastName = lastName;
         this.rollNumber = rollNumber;
     }
+    void printname(){
+        System.out.println(firstname+lastName);
+    }
+    @Override
+    public String toString() {
+        return "Student{" +
+                "firstname='" + firstname + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", rollNumber='" + rollNumber + '\'' +
+                '}';
+    }
+
+
 }
 
 
