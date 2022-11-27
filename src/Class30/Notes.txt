@@ -1,0 +1,23 @@
+Exception:
+    Exceptions are unwanted behaviours which occur during runtime and can terminate programs abruptly or
+    can change the normal behaviour of a program.
+Why should we handle exceptions?
+    1) When we handle exceptions, it leads to a very good user experience.
+    2) We can read the error messages and can figure what we are doing wrong
+    3) When we handle the exceptions properly, only the problematic code will not execute, the rest of the code
+        will still continue to work
+How to Handle the exceptions:
+
+MOST IMPORTANT FOR YOUR FRAMEWORK:
+    CLASSES AND OBJECTS
+    METHODS
+    INHERITANCE
+    LOOPS
+    IF ELSE
+    STRING CLASS
+    COLLECTION FRAMEWORS (LIST AND MAP)
+    ARRAYS
+    FILE HANDLING
+
+    ============VERBAL INTERVIEW Q'S==========
+    ALL OOPS

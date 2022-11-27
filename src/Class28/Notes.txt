@@ -1,5 +1,5 @@
 Maps in Java:
-    Maps are data structures that allow us to sotre key value pairs. it's interface we can store Key and value
+    Maps are data structures that allow us to store key value pairs. it's interface we can store Key and value
 Why we should use Maps?
     Whenever we have to store key value pairs, instead of using arrays or 2D arrays or ArrayLists, we should use Maps.
     They provide very good performance and have built-in methods to process the data.

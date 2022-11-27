@@ -2,22 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d1f85c-e931-4dc0-9ff4-813a0504de0e" name="Changes" comment="Class 15">
-      <change afterPath="$PROJECT_DIR$/Data/TestTest.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class28/ExcelDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class28/ExcelDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class28/FileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class28/MapsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class28/MapsDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class28/MapsDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class28/MapsDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class28/MapsDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class28/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class29/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class29/ReadingExcelFileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class29/FilesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class29/MethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class29/ReadingExcelFileDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class30/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class30/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class30/ExceptionDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class30/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class30/TypesOfExcep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repls/Rep100ReverseWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repls/Rep102EachletterFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repls/Rep105Vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repls/Rep107ReverseStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repls/Rep112ForLoop10Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repls/Rep116BooleanMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repls/Rep117SumOfEvenNumInNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repls/Rep118SpaceAmongLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repls/Rep119ReplaceMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repls/Rep120VoidMethodVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repls/rep104First3Letters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/ExcelReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class23Abstract/StudentTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class23Abstract/StudentTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClass12Map/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass12Map/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class28/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class28/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class29/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class29/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class29/ReadingExcelFileDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class29/ReadingExcelFileDemo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,19 +61,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/polin/SDETBatch14JavaNew/SDETBatch14JavaNew/Data",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/polin/SDETBatch14JavaNew/SDETBatch14JavaNew/Data&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\polin\SDETBatch14JavaNew\SDETBatch14JavaNew\Data" />
@@ -81,7 +90,7 @@
       <recent name="Class16" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Dog">
     <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class15Methods.Dog" />
       <module name="SDETBatch14Java" />
@@ -102,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMethods1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClassB14.StringMethods1" />
+    <configuration name="ReadingExcelFileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class29.ReadingExcelFileDemo1" />
       <module name="SDETBatch14Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReviewClassB14.*" />
+          <option name="PATTERN" value="Class29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadingExcelFileDemo1" />
         <item itemvalue="Application.Dog" />
         <item itemvalue="Application.StringRecap" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.StringMethods1" />
       </list>
     </recent_temporary>
   </component>

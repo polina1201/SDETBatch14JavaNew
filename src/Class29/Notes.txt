@@ -1,7 +1,7 @@
 FileHandling in Java
     Reading, writing and manipulating files using Java code.
 Why should we learn FileHandling:
-    1) When we perform data driven testing, we need to store data in files
+    1) When we perform Data Driven Testing (names shouldn't be allowed signs in the username,etc), we need to store data in files
     2) Storing critical data like Usernames and passwords inside the code is bad and not secure. When we push the code
     to Github, that info will also be pushed with it. To avoid, we use properties files.
     3) Sometimes data can be large in GBs, and it's a bad practice to push GBs to Github
